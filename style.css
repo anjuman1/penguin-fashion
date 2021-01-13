@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    
+}
+header p img{
+    width: 300px;
+} 
+body p{
+    color: gray;
+}
+.container{
+   padding-bottom: 100px;
+}
+.jacket-1 img {
+    width: 89%;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.jacket-2 img{
+    width: 70%;
+    padding-left:40px;
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+.jacket-3 img {
+    width: 77%;
+    padding-left: 25px;
+    padding-top: 10px;
+    height:40% ;
+}
+.jacket-4 img{
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.jacket-5 img{
+    width: 90%;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 24px;
+}
+.jacket-6 img{
+    width: 75%;
+    padding-left:45px;
+    padding-top: 20px;
+}
+.button-flex{
+    display: inline-block;
+    padding-right: 60px;
+}
