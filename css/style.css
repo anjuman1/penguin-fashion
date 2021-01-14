@@ -86,3 +86,8 @@ body h1{
         padding-left:0px;
     }
 }
+@media(max-width:766px){
+    .offer-1 img{
+        width: 25%;
+}
+}
