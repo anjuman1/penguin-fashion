@@ -46,8 +46,8 @@ body p{
     padding-top: 20px;
 } 
 .button-flex{
-    display: inline-block;
-    padding-right: 60px;
+    display: inline;
+    padding-right: 50px;
 }
 .offer-1 img{
     width: 75%;
@@ -64,4 +64,25 @@ body h1{
 }
 #h1-color{
     color: tomato;
+}
+.card-border{
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.products{
+    display:inline-block;
+    padding-left: 450px;
+    
+}
+.add-padding{
+    padding-left: 80px;
+}
+.card-border-2{
+    border: 1px solid white;
+    border-radius: 8px;
+}
+@media(max-width:766px){
+    .products{
+        padding-left:0px;
+    }
 }
