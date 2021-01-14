@@ -1,13 +1,13 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Noto Sans HK', sans-serif;
-    
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 header p img{
     width: 300px;
 } 
 body p{
-    color: gray;
+    color:gray;
+    font-size: 15px;
 }
 .container{
    padding-bottom: 100px;
@@ -40,12 +40,28 @@ body p{
     padding-top: 20px;
     padding-bottom: 24px;
 }
-.jacket-6 img{
+ .jacket-6 img{
     width: 75%;
     padding-left:45px;
     padding-top: 20px;
-}
+} 
 .button-flex{
     display: inline-block;
     padding-right: 60px;
+}
+.offer-1 img{
+    width: 75%;
+} 
+.offer-1{
+    padding-left:20px;
+    padding-top: 12px;
+}
+body h3{
+    color: gold;
+}
+body h1{
+    color:brown
+}
+#h1-color{
+    color: tomato;
 }
